@@ -17,6 +17,7 @@ Next, edit bruter.py and insert your Discord Webhooks.
 Run bruter.py
 Give an amount of threads.
 BOOM!
+P.S, groups that are working and claimable will be stored on "groups.txt"
 
 
 Enjoy bruddahs.
